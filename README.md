@@ -2,25 +2,25 @@
 
 ## Funcionalidades
 
-- #Cadastro de Usuário
+- Cadastro de Usuário
 
-(#Login de Usuário)
+- Login de Usuário
 
-(#Criação de Anuncios)
+- Criação de Anuncios
 
-(#Upload de Imagem dos Anuncios)
+- Upload de Imagem dos Anuncios
 
-(#Filtro nas Pesquisa)
+- Filtro nas Pesquisa
 
-(#Paginação)
+- Paginação
 
 ## Tecnologias Usadas
 
-(#PHP)
-(#MySql)
-(#bootstrap 4)
-(#Html5)
-(#Css3)
+- PHP
+- MySql
+- bootstrap 4
+- Html5
+- Css3
 
 ## Como Usar o Projeto
 
