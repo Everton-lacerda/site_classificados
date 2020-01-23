@@ -2,7 +2,7 @@
 
 ## Funcionalidades
 
-(#Cadastro de Usuário)
+- #Cadastro de Usuário
 
 (#Login de Usuário)
 
