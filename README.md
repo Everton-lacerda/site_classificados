@@ -24,4 +24,4 @@
 
 ## Como Usar o Projeto
 
-Para usar o projeto você precisa configurar o arquivo database que esta na página config, lá você configura o POD com sua informações e credenciais
+Para usar o projeto você precisa configurar o arquivo database que esta na página config, lá você configura o PDO com sua informações e credenciais
